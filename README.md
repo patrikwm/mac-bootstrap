@@ -13,4 +13,23 @@ Many files and configurations are taken from https://github.com/divio/osx-bootst
     - Install
     - Agree
 3. git clone https://github.com/patrikwm/mac-bootstrap.git && cd mac-bootstrap
-4. install Utorrent
+4. run install.sh
+5. install uTorrent (do not accept yahoo install)
+6. install Software from web login
+    - Cisco Anyconnect
+    - Cisco ASDM
+    - Wunderlist https://www.wunderlist.com
+    - Harvest https://www.getharvest.com/tour
+    
+7. install software from Apple store
+    - Microsoft Remote Desktop
+    - Black Magic Speed test
+    - Pixelmator
+    - Dr cleaner
+    - Telegram
+    - iStat
+    - Keynote
+    - Numbers
+    - Pages
+    - iBooks Author
+    
