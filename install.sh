@@ -52,8 +52,10 @@ source $source_dir/core/system.sh $1
 source $source_dir/core/software.sh
 # install python
 source $source_dir/core/python.sh
-# install python
+# install quicklook for OSX finder
 source $source_dir/core/quicklook.sh
+# install development folders
+source $source_dir/core/development.sh
 # install chef
 source $source_dir/core/chef.sh
 # install defaults
