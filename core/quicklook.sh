@@ -1,3 +1,4 @@
+# This software adds finder-quicklook(pres space-bar) to more filetypes.
 brew cask install qlcolorcode
 brew cask install qlstephen
 brew cask install qlmarkdown
