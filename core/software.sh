@@ -23,12 +23,13 @@ brew install homebrew/dupes/tcpdump # /usr/local/Cellar/tcpdump/4.7.4/sbin
 brew install coreutils
 brew install bitlbee # https://eklitzke.org/bitlbee-and-hipchat
 brew install openconnect #Anyconnect client for terminal
+,00
 brew cask install xquartz #Allow OSX to run X software (ssh -X)
 brew install Caskroom/versions/java7 
 brew cask install --appdir="/Applications" hipchat
 #Virtualisation
 brew cask install --appdir="/Applications" virtualbox
-brew install vagrant
+brew cask install vagrant
 brew cask install --appdir="/Applications" vagrant-manager
 brew install homebrew/completions/vagrant-completion
 brew cask install --appdir="/Applications" vagrant-bar
@@ -57,6 +58,7 @@ brew cask install --appdir="/Applications" cheatsheet # Hold CMD to get cheatshe
 brew cask install --appdir="/Applications" wireshark
 brew cask install --appdir="/Applications" yed
 brew cask install spideroakone
+brew cask install ansible 
 
 # Editor
 brew cask install --appdir="/Applications" macdown
