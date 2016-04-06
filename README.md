@@ -32,4 +32,10 @@ Many files and configurations are taken from https://github.com/divio/osx-bootst
     - Numbers
     - Pages
     - iBooks Author
-    
+ 
+ 8. Configure 
+    - spideroak
+    - dropbox
+    - evernote
+    - hipchat
+    - e-mail
