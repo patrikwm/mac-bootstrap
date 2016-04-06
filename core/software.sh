@@ -25,7 +25,7 @@ brew install bitlbee # https://eklitzke.org/bitlbee-and-hipchat
 brew install openconnect #Anyconnect client for terminal
 brew cask install xquartz #Allow OSX to run X software (ssh -X)
 brew install Caskroom/versions/java7 
-
+brew cask install --appdir="/Applications" hipchat
 #Virtualisation
 brew cask install --appdir="/Applications" virtualbox
 brew install vagrant
@@ -54,6 +54,8 @@ brew cask install --appdir="/Applications" CommandQ # Adds delay to Command Q sh
 brew cask install --appdir="/Applications" disk-inventory-x # Search disk for large files
 brew cask install --appdir="/Applications" spectacle # Lets you resize windows with shortcut
 brew cask install --appdir="/Applications" cheatsheet # Hold CMD to get cheatsheet of shortcuts
+brew cask install --appdir="/Applications" wireshark
+brew cask install --appdir="/Applications" yed
 
 # Editor
 brew cask install --appdir="/Applications" macdown
