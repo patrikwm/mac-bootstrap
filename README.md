@@ -16,6 +16,7 @@ Many files and configurations are taken from https://github.com/divio/osx-bootst
 4. run install.sh
 5. install uTorrent (do not accept yahoo install)
 6. install Software from web login
+    - install java http://www.java.com/en/download/mac_download.jsp
     - Cisco Anyconnect
     - Cisco ASDM
     - Wunderlist https://www.wunderlist.com
@@ -35,6 +36,7 @@ Many files and configurations are taken from https://github.com/divio/osx-bootst
  
  8. Configure 
     - spideroak
+        sync Development folder and dotfiles
     - dropbox
     - evernote
     - hipchat
