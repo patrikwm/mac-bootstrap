@@ -26,7 +26,7 @@ brew install openconnect #Anyconnect client for terminal
 ,00
 brew cask install xquartz #Allow OSX to run X software (ssh -X)
 brew install Caskroom/versions/java7 
-brew cask install --appdir="/Applications" hipchat
+#brew cask install --appdir="/Applications" hipchat # Non working
 #Virtualisation
 brew cask install --appdir="/Applications" virtualbox
 brew cask install vagrant

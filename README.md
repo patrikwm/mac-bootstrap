@@ -21,6 +21,7 @@ Many files and configurations are taken from https://github.com/divio/osx-bootst
     - Cisco ASDM
     - Wunderlist https://www.wunderlist.com
     - Harvest https://www.getharvest.com/tour
+    - Hipchat https://mideye.hipchat.com/downloads/latest/mac
     
 7. install software from Apple store
     - Microsoft Remote Desktop
