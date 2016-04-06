@@ -56,6 +56,7 @@ brew cask install --appdir="/Applications" spectacle # Lets you resize windows w
 brew cask install --appdir="/Applications" cheatsheet # Hold CMD to get cheatsheet of shortcuts
 brew cask install --appdir="/Applications" wireshark
 brew cask install --appdir="/Applications" yed
+brew cask install spideroakone
 
 # Editor
 brew cask install --appdir="/Applications" macdown
@@ -78,8 +79,6 @@ brew doctor # make sure homebrew is working.
 #brew cask install --appdir="/Applications" ember	
 #brew cask install --appdir="/Applications" bartender
 
-# Set up development environment
-mkdir -p ~/development/{git_mideye,git_patrik,python,java,ansible,chef,vagrant}
 
 # Install visual studio code
 wget https://go.microsoft.com/fwlink/?LinkID=620882 -O visualstudio.zip
