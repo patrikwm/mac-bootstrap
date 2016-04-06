@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Install Xcode command line tools
-xcode-select --install
-
 # clear terminal screen
 clear
 
@@ -52,11 +49,15 @@ echo 'LAST_EPOCH=$(_current_epoch)' > ~/.osx-bootstrap/.osx-update
 # include system with param $1
 source $source_dir/core/system.sh $1
 # install brew
-source $source_dir/core/brew.sh
+source $source_dir/core/software.sh
 # install python
 source $source_dir/core/python.sh
+# install python
+source $source_dir/core/quicklook.sh
+# install chef
+source $source_dir/core/chef.sh
 # install defaults
-source $source_dir/core/defaults.sh
+source $source_dir/core/default.sh
 # install github
 source $source_dir/core/github.sh
 # place your extras here
